@@ -11,6 +11,7 @@ A full-stack movie app built as a learning project. It shows popular movies from
   - **Update:** mark a movie as watched
   - **Delete:** remove a movie
 - Your list is saved in a database, so it stays after you close the app
+![Movie App screenshot](screenshot.png)
 
 ## Tech stack
 
